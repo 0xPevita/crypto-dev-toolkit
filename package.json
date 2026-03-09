@@ -1,0 +1,9 @@
+{
+  "name": "crypto-dev-toolkit",
+  "version": "1.0.0",
+  "description": "Utility toolkit for Web3 developers building on Aptos and Shelby Protocol",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
